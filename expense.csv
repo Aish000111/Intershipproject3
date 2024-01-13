@@ -1,0 +1,6 @@
+,SERVICES,PRICE,DATE,EXPENSE_TYPE
+0,apple,200.0,2024-01-14,food
+1,banana,60.0,2024-01-14,food
+2,rent,4000.0,2024-01-14,household
+3,paint,4000.0,2024-01-14,household
+4,milk,6000.0,2024-01-14,transportation
